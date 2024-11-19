@@ -12,9 +12,12 @@ This repository contains XML layout files for key screens of a gym management An
 
 ## **Drawable Resources**
 
-Images in the `res/drawable` folder include:
-- **Logos**: Gym logos (e.g., `gym_logo.png`).
-- **Icons**: UI icons (e.g., `profile_icon.png`, `workout_icon.png`).
+The `res/drawable` folder includes XML resources for UI elements:
+
+- **Backgrounds**: (e.g., `blue_bg.xml`) for setting background colors or images.
+- **Custom Views**: (e.g., `edittext.xml`) for custom styles of `EditText` or other UI elements.
+
+These XML files define the visual styles and can be referenced in your layout files to create a consistent look and feel across the app.
 
 ## **Usage**
 
